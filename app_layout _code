@@ -9,7 +9,7 @@ void main() =>
         backgroundColor:Colors.red[600] ,
       ),
       body:Center(
-      child:Text('Hello ninjas',style: TextStyle(
+      child:Text('Hello All!',style: TextStyle(
         fontSize: 20.0,
         fontWeight: FontWeight.bold,
         letterSpacing: 2.0,
@@ -18,8 +18,8 @@ void main() =>
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: (){},
-          child:Text('add friend'),
-          backgroundColor: Colors.redAccent,
+          child:Text('Click'),
+          backgroundColor: Colors.lightBlue,
       ),
     ),
 
